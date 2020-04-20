@@ -1,0 +1,16 @@
+{
+  "login": {
+    "User": "SLoptimizations",
+    "Password": "gbxtxqolvfsddjgg"
+  },
+  "email_content": {
+    "text": "פנייתך התקבלה בהצלחה! \n נציג יחזור אליך בהקדם האפשרי לקבלת הצעה לביטוח הרכב.",
+    "main_button_link": "",
+    "facebook": "",
+    "instagram": "",
+    "youtube_ch": ""
+  },
+
+  "email_subject": "ביטוח רכב",
+  "html_file_name": ""
+}
